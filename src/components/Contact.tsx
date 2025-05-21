@@ -188,9 +188,9 @@ const Contact: React.FC = () => {
               </div>
               
               <div className="mt-10">
-                <h4 className="text-lg font-medium mb-4">Connect with me</h4>
+                <h4 className="text-lg text-white font-medium mb-4">Connect with me</h4>
                 <div className="flex space-x-4">
-                  {['github', 'twitter', 'linkedin', 'dribbble'].map((platform) => (
+                  {['github', 'x', 'discord', 'dribbble'].map((platform) => (
                     <a
                       key={platform}
                       href="#"

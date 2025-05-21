@@ -42,16 +42,16 @@ const Footer: React.FC = () => {
             <a 
               href="#"
               className="hover:text-primary transition-colors duration-300"
-              aria-label="Twitter"
+              aria-label="x"
             >
-              <img src="https://cdn.simpleicons.org/twitter/ffffff" alt="Twitter" className="w-5 h-5" />
+              <img src="https://cdn.simpleicons.org/x/ffffff" alt="x" className="w-5 h-5" />
             </a>
             <a 
               href="#"
               className="hover:text-primary transition-colors duration-300"
-              aria-label="LinkedIn"
+              aria-label="discord"
             >
-              <img src="https://cdn.simpleicons.org/linkedin/ffffff" alt="LinkedIn" className="w-5 h-5" />
+              <img src="https://cdn.simpleicons.org/discord/ffffff" alt="discord" className="w-5 h-5" />
             </a>
             <a 
               href="#"
