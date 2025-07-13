@@ -143,9 +143,9 @@ const Skills: React.FC = () => {
       />
       <div className="container relative mx-auto px-4 md:px-6 z-10">
         <div className="text-center mb-16">
-          {/* <h2 className="skills-title text-3xl md:text-4xl font-bold mb-6">
+          <h2 className="skills-title text-white text-3xl md:text-4xl font-bold mb-6">
             My Skills
-          </h2> */}
+          </h2>
           <p className="skills-description text-text-secondary text-lg max-w-3xl mx-auto">
             I've developed expertise in various technologies throughout my journey as a web developer.
             Here's a glimpse of my technical skills:

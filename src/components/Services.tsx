@@ -177,8 +177,8 @@ const Services: React.FC = () => {
       />
       <div className="container relative mx-auto px-4 md:px-6 z-10">
         <div className="text-center mb-16">
-          <h2 className="services-title text-3xl md:text-4xl font-bold mb-6">
-            My Services
+          <h2 className="services-title text-3xl text-white md:text-4xl font-bold mb-6">
+            Services
           </h2>
           <p className="services-description text-text-secondary text-lg max-w-3xl mx-auto">
             I offer a comprehensive range of web development services to help bring your digital ideas to life.
