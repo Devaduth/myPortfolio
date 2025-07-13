@@ -28,7 +28,7 @@ const projects: Project[] = [
     title: 'Luktana',
     description: 'An interactive dashboard for social media analytics with real-time data visualization and reporting tools.',
     technologies: ['HTML5', 'SCSS', 'JavaScript', 'Bootstrap5' , 'Tailwind CSS'],
-    imageUrl: '/public/projects/luktana.png',
+    imageUrl: '/projects/luktana.png',
     projectUrl: 'https://www.luktana.com/',
     githubUrl: 'https://www.luktana.com/',
   },
